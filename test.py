@@ -1,1 +1,1 @@
-print("Learning GitHub is FUN")
+print("Learning GitHub is FUN 2")
